@@ -11,5 +11,5 @@ Instructions:
 
 
 ## Add your names below:
-alumn1: XXXXXX
+alumn1: Miguel
 alumn2: XXXXXX
