@@ -12,4 +12,4 @@ Instructions:
 
 ## Add your names below:
 alumn1: Miguel
-alumn2: XXXXXX
+alumn2: Alex
